@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 How to reach me: ***no don't***
+
+![t0be](https://tryhackme-badges.s3.amazonaws.com/t0be.png)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=deathpicnic)
