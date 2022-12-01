@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![t0be](https://tryhackme-badges.s3.amazonaws.com/t0be.png)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=deathpicnic)
+![Github stats](https://github-readme-stats.vercel.app/api?username=t0be0)
