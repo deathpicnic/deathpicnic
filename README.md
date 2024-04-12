@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 📫 How to reach me: ***no don't***
+- 🔭 I’m currently working on ***Linux n Automation***
+- 🌱 I’m currently learning ***Linux Binaries***
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: ***i do tryhackme rooms too***
 
 ![t0be](https://tryhackme-badges.s3.amazonaws.com/t0be.png)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=t0be0)
